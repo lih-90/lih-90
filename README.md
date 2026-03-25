@@ -1,17 +1,27 @@
-## 🐱 Olá, sou a Aline! 
+## 🐱 Olá, sou a Aline!
 
-Sou **Desenvolvedora Front-End Júnior em formação**, cursando **Análise e Desenvolvimento de Sistemas**, com experiência em **QA, usabilidade e validação de interfaces**. Busco minha primeira oportunidade como **Front-End Júnior**, unindo minha base em QA e UX ao desenvolvimento de interfaces funcionais, acessíveis e bem estruturadas. <br>
-- **Curiosidade:** tenho grande interesse por tecnologia e games, áreas que reforçam minha afinidade com interfaces interativas e experiência do usuário. 💻
+Sou **Desenvolvedora Front-End Júnior | QA & UX**, cursando **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de **interfaces responsivas, acessíveis e centradas no usuário**.
+
+Possuo experiência em **QA (Quality Assurance), testes funcionais e validação de interfaces**, contribuindo para a qualidade, usabilidade e consistência das aplicações.
+
+Atualmente, estou em evolução contínua, aprofundando conhecimentos em **JavaScript** e desenvolvendo base em **Java e C**, com foco em lógica, algoritmos e fundamentos de back-end.
+
+🎯 **Objetivo:** atuar como **Front-End Júnior**, aplicando boas práticas, código limpo e foco na experiência do usuário.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
+
 **Front-End**
 - HTML5
 - CSS3 (Flexbox, Grid, Responsividade)
-- JavaScript (ES6+, DOM, lógica)
+- JavaScript (ES6+, manipulação do DOM, lógica de programação)
 
-**Ferramentas & UX / QA**
+**Back-End (base em desenvolvimento)**
+- Java (fundamentos, lógica e estrutura)
+- C (estrutura básica, lógica e controle de fluxo)
+
+**Ferramentas & QA / UX**
 - Git & GitHub
 - Figma
 - JIRA | SharePoint
@@ -21,21 +31,49 @@ Sou **Desenvolvedora Front-End Júnior em formação**, cursando **Análise e De
 
 ## 💼 Projetos em Destaque
 
-### 🔹 Landing Page Spotify — Projeto Pessoal  
-Página inspirada no site do Spotify, desenvolvida para praticar **layout, responsividade e estruturação de interfaces**.  
-Utiliza **HTML para estrutura**, **CSS para identidade visual** e **JavaScript para interações básicas**, resultando em uma landing page funcional e responsiva.
-<br>
-🔗 Repositório: https://github.com/lih-90/spotify-alura
+### 🔹 Landing Page Spotify  
+Projeto focado em **estruturação semântica, responsividade e organização de layout**.
 
-### 🔹 Jogo do Número Secreto — Alura Imersão Front-End
-Projeto desenvolvido durante a Alura Imersão Front-End, com personalizações próprias para praticar lógica de programação e interatividade no navegador.
- <br>
+**Destaques técnicos:**
+- HTML5 semântico  
+- CSS3 com Flexbox e Grid  
+- Layout responsivo (mobile-first)  
+- Interações básicas com JavaScript  
+
+🔗 Repositório: https://github.com/lih-90/spotify-alura  
+
+---
+
+### 🔹 Jogo do Número Secreto  
+Aplicação interativa para prática de **lógica de programação e manipulação do DOM**.
+
+**Destaques técnicos:**
+- Lógica condicional e geração de número aleatório  
+- Manipulação do DOM com JavaScript  
+- Tratamento de eventos  
+- Feedback dinâmico ao usuário  
+
 🔗 Repositório: https://github.com/lih-90/jogo-numero-secreto  
 
-### 🔹 Tech Mais — Protótipo Responsivo com Fluxo de Navegação (Figma) 
-Protótipo criado no Figma para um portal fictício de tecnologia, com foco em **responsividade, usabilidade e organização do fluxo de navegação**. O projeto inclui telas de listagem de notícias, visualização de conteúdo e cadastro de usuários, pensando em **futura implementação front-end**. <br>
-🔗 Link: https://www.figma.com/proto/qc56qZ6uIUXWPvgpT7yERb/Atividade?node-id=16-132&t=ip1m1gVFAvNCVpSy-1
+---
 
+### 🔹 Tech Mais — Protótipo (Figma)  
+Protótipo com foco em **UX, responsividade e arquitetura de navegação**.
+
+**Destaques:**
+- Fluxo de navegação entre telas  
+- Layout responsivo (desktop e mobile)  
+- Hierarquia visual e organização de conteúdo  
+
+🔗 Protótipo: https://www.figma.com/proto/qc56qZ6uIUXWPvgpT7yERb/Atividade  
+
+---
+
+## 📈 Em evolução
+- JavaScript (ES6+ e consumo de APIs REST)  
+- Lógica de programação e algoritmos  
+- Fundamentos de back-end  
+- Boas práticas (clean code)  
 ---
 
 ## 📫 Onde me encontrar
