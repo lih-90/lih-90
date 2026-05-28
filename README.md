@@ -58,6 +58,5 @@ Protótipo com foco em **UX, responsividade e arquitetura de navegação**.
 ---
 
 ## 📫 Onde me encontrar
-- 💼 LinkedIn: https://www.linkedin.com/in/aline-ometto/
 - 💻 GitHub: https://github.com/lih-90  
 - ✉️ Email: aline.ometto90@gmail.com
