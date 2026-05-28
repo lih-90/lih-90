@@ -4,28 +4,9 @@ Sou **Desenvolvedora Front-End Júnior | QA & UX**, cursando **Análise e Desenv
 
 Possuo experiência em **QA (Quality Assurance), testes funcionais e validação de interfaces**, contribuindo para a qualidade, usabilidade e consistência das aplicações.
 
-Atualmente, estou em evolução contínua, aprofundando conhecimentos em **JavaScript** e desenvolvendo base em **Java e C**, com foco em lógica, algoritmos e fundamentos de back-end.
+Atualmente, estou em evolução contínua, aprofundando conhecimentos e desenvolvendo base em **Java e C**, com foco em lógica, algoritmos e fundamentos de back-end.
 
 🎯 **Objetivo:** atuar como **Front-End Júnior**, aplicando boas práticas, código limpo e foco na experiência do usuário.
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-**Front-End**
-- HTML5
-- CSS3 (Flexbox, Grid, Responsividade)
-- JavaScript (ES6+, manipulação do DOM, lógica de programação)
-
-**Back-End (base em desenvolvimento)**
-- Java (fundamentos, lógica e estrutura)
-- C (estrutura básica, lógica e controle de fluxo)
-
-**Ferramentas & QA / UX**
-- Git & GitHub
-- Figma
-- JIRA | SharePoint
-- Testes funcionais e validação de interfaces
 
 ---
 
