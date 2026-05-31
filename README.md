@@ -1,62 +1,98 @@
-## 🐱 Olá, sou a Aline!
+# 🐱 Olá, sou a Aline!
 
-Sou **Desenvolvedora Front-End Júnior | QA & UX**, cursando **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de **interfaces responsivas, acessíveis e centradas no usuário**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em **Desenvolvimento Front-End, QA e UX**.
 
-Possuo experiência em **QA (Quality Assurance), testes funcionais e validação de interfaces**, contribuindo para a qualidade, usabilidade e consistência das aplicações.
-
-Atualmente, estou em evolução contínua, aprofundando conhecimentos e desenvolvendo base em **Java e C**, com foco em lógica, algoritmos e fundamentos de back-end.
-
-🎯 **Objetivo:** atuar como **Front-End Júnior**, aplicando boas práticas, código limpo e foco na experiência do usuário.
+Busco desenvolver interfaces responsivas, acessíveis e centradas no usuário, aplicando boas práticas de desenvolvimento, usabilidade e qualidade de software.
 
 ---
 
-## 💼 Projetos em Destaque
+## 🚀 Tecnologias
 
-### 🔹 Landing Page Spotify  
-Projeto focado em **estruturação semântica, responsividade e organização de layout**.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
 
-**Destaques técnicos:**
-- HTML5 semântico  
-- CSS3 com Flexbox e Grid  
-- Layout responsivo (mobile-first)  
-- Interações básicas com JavaScript  
+### Front-End
 
-🔗 Repositório: https://github.com/lih-90/spotify-alura  
+* HTML5
+* CSS3 (Flexbox, Grid e Responsividade)
+* JavaScript (ES6+)
 
----
+### Back-End (em desenvolvimento)
 
-### 🔹 Jogo do Número Secreto  
-Aplicação interativa para prática de **lógica de programação e manipulação do DOM**.
-
-**Destaques técnicos:**
-- Lógica condicional e geração de número aleatório  
-- Manipulação do DOM com JavaScript  
-- Tratamento de eventos  
-- Feedback dinâmico ao usuário  
-
-🔗 Repositório: https://github.com/lih-90/jogo-numero-secreto  
+* Java
+* C
 
 ---
 
-### 🔹 Tech Mais — Protótipo (Figma)  
-Protótipo com foco em **UX, responsividade e arquitetura de navegação**.
+## 🛠️ Ferramentas & QA / UX
 
-**Destaques:**
-- Fluxo de navegação entre telas  
-- Layout responsivo (desktop e mobile)  
-- Hierarquia visual e organização de conteúdo  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</p>
 
-🔗 Protótipo: https://www.figma.com/proto/qc56qZ6uIUXWPvgpT7yERb/Atividade  
+* Testes funcionais
+* Validação de interfaces
+* Documentação de requisitos
+* Colaboração com Git e GitHub
 
 ---
 
-## 📈 Em evolução
-- JavaScript (ES6+ e consumo de APIs REST)  
-- Lógica de programação e algoritmos  
-- Fundamentos de back-end  
-- Boas práticas (clean code)  
+## 💼 Principais Projetos
+
+### 🎵 Landing Page Spotify
+
+Projeto focado em estrutura semântica, responsividade e organização de layout.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript
+
+🔗 https://github.com/lih-90/spotify-alura
+
 ---
 
-## 📫 Onde me encontrar
-- 💻 GitHub: https://github.com/lih-90  
-- ✉️ Email: aline.ometto90@gmail.com
+### 🎮 Jogo do Número Secreto
+
+Aplicação para prática de lógica de programação e manipulação do DOM.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript
+
+🔗 https://github.com/lih-90/jogo-numero-secreto
+
+---
+
+### 🎨 Tech Mais — Protótipo UX/UI
+
+Protótipo desenvolvido no Figma com foco em experiência do usuário, navegação e responsividade.
+
+**Ferramenta:** Figma
+
+🔗 https://www.figma.com/proto/qc56qZ6uIUXWPvgpT7yERb/Atividade
+
+---
+
+## 📚 Atualmente estudando
+
+* JavaScript moderno (ES6+)
+* Consumo de APIs REST
+* Java e Programação Orientada a Objetos
+* Lógica de programação e algoritmos
+* Fundamentos de back-end
+* Boas práticas de desenvolvimento (Clean Code)
+
+---
+
+## 📫 Como me encontrar
+
+* 💻 GitHub: https://github.com/lih-90
+* ✉️ E-mail: [aline.ometto90@gmail.com](mailto:aline.ometto90@gmail.com)
+
+<!-- Futuramente:
+- 💼 LinkedIn: seu-linkedin
+-->
