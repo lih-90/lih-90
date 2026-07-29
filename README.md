@@ -1,4 +1,4 @@
-# 🐱 Olá, sou a Aline!
+# 💻 Olá, sou a Aline!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em **Desenvolvimento Front-End, QA e UX**.
 
