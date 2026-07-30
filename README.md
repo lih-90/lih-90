@@ -1,12 +1,14 @@
 # 💻 Olá, sou a Aline!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em **Desenvolvimento Front-End, QA e UX**.
+Sou **Analista de QA** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência em **Qualidade de Software (QA)**, **Testes Funcionais**, **Validação de Interfaces** e **UX**.
 
-Busco desenvolver interfaces responsivas, acessíveis e centradas no usuário, aplicando boas práticas de desenvolvimento, usabilidade e qualidade de software.
+Atualmente estou ampliando minha atuação para **Desenvolvimento Front-End**, desenvolvendo aplicações responsivas, acessíveis e centradas no usuário, aplicando boas práticas de desenvolvimento, usabilidade e qualidade de software.
+
+🎯 **Objetivo:** Busco oportunidades como **Desenvolvedora Front-End Júnior**, **QA**, **QA Automation** ou **Estágio em Desenvolvimento de Software**, onde eu possa contribuir com minha experiência em qualidade e continuar evoluindo tecnicamente.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -16,20 +18,22 @@ Busco desenvolver interfaces responsivas, acessíveis e centradas no usuário, a
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
-### Front-End
+## 🌐 Front-End
 
-* HTML5
-* CSS3 (Flexbox, Grid e Responsividade)
-* JavaScript (ES6+)
+- HTML5
+- CSS3 (Flexbox, Grid e Responsividade)
+- JavaScript (ES6+)
+- DOM
+- Design Responsivo
 
-### Back-End (em desenvolvimento)
+## ☕ Linguagens
 
-* Java
-* C
+- Java (POO)
+- C (em aprendizado)
 
 ---
 
-## 🛠️ Ferramentas & QA / UX
+# 🛠️ Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -38,38 +42,64 @@ Busco desenvolver interfaces responsivas, acessíveis e centradas no usuário, a
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
-* Testes funcionais
-* Validação de interfaces
-* Documentação de requisitos
-* Colaboração com Git e GitHub
+- Git
+- GitHub
+- Visual Studio Code
+- Figma
+- Jira
+- SharePoint
+- Microsoft Teams
 
 ---
 
-## 💼 Principais Projetos
+# 🧪 Qualidade de Software (QA)
 
-### 🎵 Landing Page Spotify
+- Testes Funcionais
+- Garantia da Qualidade (Quality Assurance)
+- Validação de Interfaces
+- Testes de Usabilidade (UX)
+- Documentação de Requisitos
+- Gestão de Incidentes
+- Colaboração em equipes ágeis
+- Versionamento de código com Git e GitHub
+
+---
+
+# 💼 Principais Projetos
+
+## 🎵 Landing Page Spotify
 
 Projeto focado em estrutura semântica, responsividade e organização de layout.
 
-**Tecnologias:** HTML5, CSS3 e JavaScript
+**Tecnologias:** HTML5 • CSS3 • JavaScript
 
 🔗 https://github.com/lih-90/spotify-alura
 
 ---
 
-### 🎮 Jogo do Número Secreto
+## 🎮 Jogo do Número Secreto
 
-Aplicação para prática de lógica de programação e manipulação do DOM.
+Aplicação desenvolvida para praticar lógica de programação, manipulação do DOM e JavaScript.
 
-**Tecnologias:** HTML5, CSS3 e JavaScript
+**Tecnologias:** HTML5 • CSS3 • JavaScript
 
 🔗 https://github.com/lih-90/jogo-numero-secreto
 
 ---
 
-### 🎨 Tech Mais — Protótipo UX/UI
+## ☕ Java Fundamentos
 
-Protótipo desenvolvido no Figma com foco em experiência do usuário, navegação e responsividade.
+Projeto desenvolvido durante meus estudos da linguagem Java, abordando lógica de programação, estruturas de controle, orientação a objetos e boas práticas.
+
+**Tecnologias:** Java • Visual Studio Code
+
+🔗 https://github.com/lih-90/java-fundamentos
+
+---
+
+## 🎨 Tech Mais — Protótipo UX/UI
+
+Protótipo desenvolvido no Figma com foco em experiência do usuário (UX), interface (UI), navegação e responsividade.
 
 **Ferramenta:** Figma
 
@@ -77,22 +107,31 @@ Protótipo desenvolvido no Figma com foco em experiência do usuário, navegaç�
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
-* JavaScript moderno (ES6+)
-* Consumo de APIs REST
-* Java e Programação Orientada a Objetos
-* Lógica de programação e algoritmos
-* Fundamentos de back-end
-* Boas práticas de desenvolvimento (Clean Code)
+- Java (Programação Orientada a Objetos)
+- Consumo de APIs REST
+- Estruturas de Dados
+- Desenvolvimento Front-End
+- C
 
 ---
 
-## 📫 Como me encontrar
+# 🌱 Em constante evolução
 
-* 💻 GitHub: https://github.com/lih-90
-* ✉️ E-mail: [aline.ometto90@gmail.com](mailto:aline.ometto90@gmail.com)
+Acredito que **Desenvolvimento de Software** e **Qualidade** caminham juntos.
 
-<!-- Futuramente:
-- 💼 LinkedIn: seu-linkedin
--->
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e criar soluções que proporcionem uma excelente experiência ao usuário, unindo desenvolvimento, qualidade de software e usabilidade.
+
+---
+
+# 📫 Como me encontrar
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/aline-ometto
+
+💻 **GitHub**  
+https://github.com/lih-90
+
+📧 **E-mail**  
+aline.ometto90@gmail.com
