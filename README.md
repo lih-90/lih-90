@@ -98,9 +98,7 @@ Projeto desenvolvido para praticar estrutura semântica, estilização, responsi
 
 ---
 
-# 🎮 Outros Projetos
-
-## Jogo do Número Secreto
+## 🎮 Jogo do Número Secreto
 
 Aplicação desenvolvida para praticar lógica de programação, manipulação do DOM e conceitos de JavaScript.
 
