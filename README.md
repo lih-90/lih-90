@@ -1,10 +1,11 @@
+
 # 💻 Olá, sou a Aline!
 
-Sou **Analista de QA** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência em **Qualidade de Software (QA)**, **Testes Funcionais**, **Validação de Interfaces** e **UX**.
+Sou **Analista de QA** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência em **Qualidade de Software (QA)**, **Testes Funcionais**, **Validação de Sistemas**, **Usabilidade** e **Experiência do Usuário (UX)**.
 
-Atualmente estou ampliando minha atuação para **Desenvolvimento Front-End**, desenvolvendo aplicações responsivas, acessíveis e centradas no usuário, aplicando boas práticas de desenvolvimento, usabilidade e qualidade de software.
+Atualmente, estou ampliando meus conhecimentos em **Desenvolvimento Front-End e Programação**, desenvolvendo projetos práticos e aplicando boas práticas de desenvolvimento, acessibilidade, responsividade e qualidade de software.
 
-🎯 **Objetivo:** Busco oportunidades como **Desenvolvedora Front-End Júnior**, **QA**, **QA Automation** ou **Estágio em Desenvolvimento de Software**, onde eu possa contribuir com minha experiência em qualidade e continuar evoluindo tecnicamente.
+🎯 **Objetivo:** Busco oportunidades em **QA, Qualidade de Software, Desenvolvimento Front-End, Programação e TI**, incluindo posições Júnior e estágio, nas quais possa contribuir com minha experiência profissional e continuar evoluindo tecnicamente.
 
 ---
 
@@ -23,12 +24,12 @@ Atualmente estou ampliando minha atuação para **Desenvolvimento Front-End**, d
 - HTML5
 - CSS3 (Flexbox, Grid e Responsividade)
 - JavaScript (ES6+)
-- DOM
+- Manipulação do DOM
 - Design Responsivo
 
-## ☕ Linguagens
+## ☕ Linguagens de Programação
 
-- Java (POO)
+- Java (Fundamentos e Programação Orientada a Objetos)
 - C (em aprendizado)
 
 ---
@@ -42,8 +43,7 @@ Atualmente estou ampliando minha atuação para **Desenvolvimento Front-End**, d
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
-- Git
-- GitHub
+- Git e GitHub
 - Visual Studio Code
 - Figma
 - Jira
@@ -56,54 +56,57 @@ Atualmente estou ampliando minha atuação para **Desenvolvimento Front-End**, d
 
 - Testes Funcionais
 - Garantia da Qualidade (Quality Assurance)
-- Validação de Interfaces
+- Validação de Sistemas e Interfaces
 - Testes de Usabilidade (UX)
+- Análise e identificação de inconsistências
 - Documentação de Requisitos
-- Gestão de Incidentes
-- Colaboração em equipes ágeis
+- Gestão e acompanhamento de Incidentes
+- Validação pós-implementação
 - Versionamento de código com Git e GitHub
 
 ---
 
 # 💼 Principais Projetos
 
-## 🎵 Landing Page Spotify
-
-Projeto focado em estrutura semântica, responsividade e organização de layout.
-
-**Tecnologias:** HTML5 • CSS3 • JavaScript
-
-🔗 https://github.com/lih-90/spotify-alura
-
----
-
-## 🎮 Jogo do Número Secreto
-
-Aplicação desenvolvida para praticar lógica de programação, manipulação do DOM e JavaScript.
-
-**Tecnologias:** HTML5 • CSS3 • JavaScript
-
-🔗 https://github.com/lih-90/jogo-numero-secreto
-
----
-
 ## ☕ Java Fundamentos
 
-Projeto desenvolvido durante meus estudos da linguagem Java, abordando lógica de programação, estruturas de controle, orientação a objetos e boas práticas.
+Projeto desenvolvido durante meus estudos da linguagem Java, abordando lógica de programação, estruturas de controle, orientação a objetos e boas práticas de programação.
 
 **Tecnologias:** Java • Visual Studio Code
 
-🔗 https://github.com/lih-90/java-fundamentos
+🔗 [Acessar repositório](https://github.com/lih-90/java-fundamentos)
 
 ---
 
 ## 🎨 Tech Mais — Protótipo UX/UI
 
-Protótipo desenvolvido no Figma com foco em experiência do usuário (UX), interface (UI), navegação e responsividade.
+Protótipo desenvolvido no Figma, com foco em experiência do usuário (UX), interface (UI), navegação, organização visual e responsividade.
 
 **Ferramenta:** Figma
 
-🔗 https://www.figma.com/proto/qc56qZ6uIUXWPvgpT7yERb/Atividade
+🔗 [Visualizar protótipo](https://www.figma.com/proto/qc56qZ6uIUXWPvgpT7yERb/Atividade)
+
+---
+
+## 🎵 Landing Page Spotify
+
+Projeto desenvolvido para praticar estrutura semântica, estilização, responsividade e organização de layouts, utilizando tecnologias Front-End.
+
+**Tecnologias:** HTML5 • CSS3 • JavaScript
+
+🔗 [Acessar repositório](https://github.com/lih-90/spotify-alura)
+
+---
+
+# 🎮 Outros Projetos
+
+## Jogo do Número Secreto
+
+Aplicação desenvolvida para praticar lógica de programação, manipulação do DOM e conceitos de JavaScript.
+
+**Tecnologias:** HTML5 • CSS3 • JavaScript
+
+🔗 [Acessar repositório](https://github.com/lih-90/jogo-numero-secreto)
 
 ---
 
@@ -112,8 +115,8 @@ Protótipo desenvolvido no Figma com foco em experiência do usuário (UX), inte
 - Java (Programação Orientada a Objetos)
 - Consumo de APIs REST
 - Estruturas de Dados
+- Banco de Dados SQL
 - Desenvolvimento Front-End
-- C
 
 ---
 
@@ -127,11 +130,14 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos
 
 # 📫 Como me encontrar
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/aline-ometto
+💼 **LinkedIn**
 
-💻 **GitHub**  
-https://github.com/lih-90
+[linkedin.com/in/aline-ometto](https://www.linkedin.com/in/aline-ometto)
 
-📧 **E-mail**  
+💻 **GitHub**
+
+[github.com/lih-90](https://github.com/lih-90)
+
+📧 **E-mail**
+
 aline.ometto90@gmail.com
